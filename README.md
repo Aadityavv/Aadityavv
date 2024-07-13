@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Database, React, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://aadityavv.github.io/PORTFOLIO-WEBSITE/](https://github.com/Aadityavv)
+- 👨‍💻 All of my projects are available at [https://github.com/Aadityavv](https://github.com/Aadityavv)
 
 - 💬 Ask me about **HTML, CSS, JS, Node JS, Express JS, Java, Python**
 
