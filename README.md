@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Weather application](https://github.com/Aadityavv/Weather-Application)
+- 🔭 I’m currently working on [Market 24/7. An e-commerce website](https://github.com/Aadityavv/Market-24-7)
 
-- 🌱 I’m currently learning **Database, React, Machine Learning**
+- 🌱 I’m currently learning **Database, React, Machine Learning and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aadityavv](https://github.com/Aadityavv)
 
-- 💬 Ask me about **HTML, CSS, JS, Node JS, Express JS, Java, Python**
+- 💬 Ask me about **HTML, CSS, JS, Node JS, Express JS, Java, Python, SQL Database**
 
 - 📫 How to reach me **aadityavv9@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Aadityavv/Resume/blob/main/Aaditya%20vijayvargiya%20Resume.pdf](https://github.com/Aadityavv/Resume/blob/main/Aaditya%20vijayvargiya%20Resume.pdf)
+- 📄 Know about my experiences [RESUME](https://github.com/Aadityavv/Resume)
 
 - ⚡ Fun fact **I think I am good at photography and videography as well.**
 
