@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Vijayvargiya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-![GitHub Snake Animation](https://raw.githubusercontent.com/<Aadityavv>/<snk>/output/github-snake.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityavv&label=Profile%20views&color=0e75b6&style=flat" alt="aadityavv" /> </p>
