@@ -43,4 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityavv&" alt="aadityavv" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/Aadityavv/Aadityavv/output/github-contribution-grid-snake-dark.svg)
