@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AI GI Oncologist](https://github.com/Aadityavv/Market-24-7)
+- 🔭 I’m currently working on [Market 24/7](https://github.com/Aadityavv/Market-24-7)
 
 - 🌱 I’m currently learning **Database, React, Machine Learning and DSA**
 
