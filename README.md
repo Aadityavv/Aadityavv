@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [UHS-Frontend](https://github.com/Aadityavv/Frontend) and [UHS-Backend](https://github.com/Aadityavv/Backend)
+- 🔭 I’m currently working on [UHS-Frontend](https://github.com/Aadityavv/UHS-Frontend) and [UHS-Backend](https://github.com/Aadityavv/UHS-Backend)
 
 - 🌱 I’m currently learning **Database, React, Machine Learning and DSA**
 
