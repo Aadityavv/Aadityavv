@@ -1,71 +1,46 @@
-<!-- Profile Card -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%">
-  <h1>Hi, I'm Aaditya Vijayvargiya 👋</h1>
-  <p>
-    <b>Full-Stack Developer | Cloud & Automation Enthusiast</b><br>
-    <a href="mailto:aadityavv9@gmail.com">aadityavv9@gmail.com</a> •
-    <a href="https://www.linkedin.com/in/aadityavv9/">LinkedIn</a> •
-    <a href="https://leetcode.com/u/aadityavv9/">LeetCode</a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Aaditya Vijayvargiya</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
----
 
-<!-- Timeline Section -->
-<h2>🚀 My Journey</h2>
 
-```mermaid
-timeline
-    title Aaditya's Tech Journey
-    2021 : Started B.Tech in Computer Science (Full Stack AI)
-    2023 : Hackathon Finalist, Led OPEN Community
-    2024 : AWS Certified, Indian Army Software Contributor
-    2025 : Launched LipiPrint, Interned at Suratec (Thailand)
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityavv&label=Profile%20views&color=0e75b6&style=flat" alt="aadityavv" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityavv" alt="aadityavv" /></a> </p>
 
-<!-- Skills Section -->
-<h2>🛠️ Tech Stack</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,postgres,docker,aws,firebase,git,github" />
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [UHS-Frontend](https://github.com/Aadityavv/UHS-Frontend) and [UHS-Backend](https://github.com/Aadityavv/UHS-Backend)
+
+- 🌱 I’m currently learning **Database, React, Machine Learning and DSA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aadityavv](https://github.com/Aadityavv)
+
+- 💬 Ask me about **HTML, CSS, JS, Node JS, Express JS, Java, Python, SQL Database**
+
+- 📫 How to reach me **aadityavv9@gmail.com**
+
+- 📄 Know about my experiences [RESUME](https://github.com/Aadityavv/Resume)
+
+- ⚡ Fun fact **I think I am good at photography and videography as well.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aadityavv9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityavv9" height="30" width="40" /></a>
+<a href="https://instagram.com/fotuvert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fotuvert" height="30" width="40" /></a>
+<a href="https://medium.com/@aadityavv9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aadityavv9" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Projects Grid -->
-<h2>🌟 Featured Projects</h2>
-<table>
-  <tr>
-    <td>
-      <b><a href="https://github.com/Aadityavv/LipiPrint">LipiPrint</a></b><br>
-      <sub>City-wide cloud printing platform for Saharanpur</sub>
-    </td>
-    <td>
-      <b><a href="https://github.com/Aadityavv/UHS-Frontend">UPES Health Services</a></b><br>
-      <sub>Healthcare management for 15,000+ users</sub>
-    </td>
-    <td>
-      <b><a href="https://github.com/Aadityavv/updated-litigate">Litigate</a></b><br>
-      <sub>ML-powered legal case management</sub>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityavv&show_icons=true&locale=en&layout=compact" alt="aadityavv" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityavv&show_icons=true&locale=en" alt="aadityavv" /></p>
 
-<!-- Achievements Section -->
-<h2>🏅 Achievements</h2>
-<ul>
-  <li>🥇 Hackathon Finalist (Top 1/110+ teams)</li>
-  <li>🛡️ Developed mission-critical software for the Indian Army</li>
-  <li>📚 AWS Certified, Open Source Contributor</li>
-</ul>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityavv&" alt="aadityavv" /></p>
 
----
 
-<!-- Fun Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Let's+build+something+amazing+together!;Open+to+collaboration+and+new+opportunities."/>
-</p>
