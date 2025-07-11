@@ -51,7 +51,7 @@
 
 ### 🏅 Achievements
 
-- 🥇 Hackathon Finalist (Top 1/110+ teams)
+- 🥇 Hackathon Finalist (Top 10/110+ teams)
 - 🛡️ Developed mission-critical software for the Indian Army
 - 📚 AWS Certified, Open Source Contributor
 
